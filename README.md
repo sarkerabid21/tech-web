@@ -1,8 +1,7 @@
 # Project Name – *NextGenTech* 
 
 ##  Overview
-A brief introduction to what the project is about—for example:  
-“NextGenTech is a modern web application that allows .”
+NEXTGENTECH is a modern tech platform web design concept showcasing next-gen services with sleek animations and structured layouts.
 
 ##  Live Demo
 Experience it live here: https://zap-shift-4236c.web.app/
