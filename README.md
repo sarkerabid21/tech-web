@@ -25,8 +25,6 @@ Experience it live here: https://zap-shift-4236c.web.app/
 
 📌 Bookmarking – Users can bookmark products for quick access.
 
-🧾 Coupon System – Admins can create/edit/delete discount coupons.
-
 🧠 Reported Content Management – Moderators can view and delete reported items.
 
 💳 Stripe Integration – Secure payment system for premium membership unlock.
