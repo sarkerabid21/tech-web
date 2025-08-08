@@ -13,9 +13,29 @@ Experience it live here: https://zap-shift-4236c.web.app/
 - Firebase / Vite / Webpack (or any relevant tools)
 
 ##  Features
-- Feature 1: a quick explanation
-- Feature 2: another highlight
-- Feature 3: something especially cool
+✅ Modern UI – Clean, responsive interface built using TailwindCSS and React.
+
+🔐 Authentication – Secure login and registration using Firebase Authentication.
+
+📦 Role-Based Access – Different functionalities for users, moderators, and admins.
+
+📊 Dashboard System – Separate dashboards with real-time data (products, reviews, activities).
+
+💬 Product Reviews – Users can post reviews; moderators can approve or reject.
+
+📌 Bookmarking – Users can bookmark products for quick access.
+
+🧾 Coupon System – Admins can create/edit/delete discount coupons.
+
+🧠 Reported Content Management – Moderators can view and delete reported items.
+
+💳 Stripe Integration – Secure payment system for premium membership unlock.
+
+🔄 Dynamic User Status – User status updates automatically after payment (e.g., verified).
+
+📁 MongoDB Integration – All data stored and fetched from MongoDB collections.
+
+
 
 ##  Dependencies
 - `react` – for UI development  
